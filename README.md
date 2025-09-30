@@ -1,12 +1,12 @@
-# 🌿 CalmMind - Therapy Bot
+# Lifeoria - Therapy Bot
 
-(No medical advice is provided. CalmMind is for emotional support and listening only.)
+(No medical advice is provided. Lifeoria is for emotional support and listening only.)
 
 Therapy Bot is an empathetic, conversational therapy chatbot built with the ChatGPT API, LangChain, and Streamlit. It provides a safe, non-judgmental space where users can share their feelings and receive calm, compassionate responses — not diagnoses.
 
 ![1](1.png)
 
-# 💡 Features
+# Features
 
 GPT-powered therapy-style conversation
 Empathetic and calming response generation
@@ -15,22 +15,22 @@ Streamlit frontend with real-time conversation
 Maintains session history during the chat
 Secure API key management using .env or st.secrets
 
-# 📸 Demo
+# Demo
 
 ![2](2.png)
 
-# 🛠 Tech Stack
+# Tech Stack
 
 OpenAI GPT-4 API
 LangChain
 Streamlit
 Python
 
-# 📌 Notes
+# Notes
 
 No medical advice is provided. It is for emotional support and listening only.
 
-# 🙏 Credits
+# Credits
 
 Inspired by the need for more accessible, empathetic support.
-Built with ❤️ using OpenAI and Streamlit.
+Built with love using OpenAI and Streamlit.
